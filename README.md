@@ -15,3 +15,11 @@ pds02_PatchSparseSampling.py is for Incremental Sparse Sampling (ISS) where the 
 pds03_Patch2Distribution.py for: 1. predict trait-masks of the patches; 2. down-sample and generate the trait-location pairs csv file.
 
 in which GBiNet model is used for prediction, and detail of the model is arranged in MMSegmentation style under PaddySeg/GBiNet/
+
+### Extra Files
+
+The trained model and 4 sample images are also available at: 
+
+[PaddySeg_ExtraFiles - Google Drive](https://drive.google.com/drive/folders/1NnFOPRP20jvi3EHetyB1fUaqo4c4aJqQ?usp=sharing)
+
+[PaddySeg_ExtraFiles - Baidu Netdisk](https://pan.baidu.com/s/1VV_8Tn3tJtONhDew1_6Jrw?pwd=mw1x)
