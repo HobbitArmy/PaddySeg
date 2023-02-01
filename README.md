@@ -24,8 +24,9 @@ Accurate monitoring of rice phenology is critical for crop management, cultivars
 
 ##### pds03_Patch2Distribution.py for: 1. predict trait-masks of the patches; 2. down-sample and generate the trait-location pairs csv file.
 
-<u>**Figure 12. Rice Phenology Mapping at DJD-5 Experimental Field: a. Drone Waypoints of Image Capture; b. Sparse Sampled Patch-Boxes Distribution; c. Distribution Map of Rice Phenology with Interpolation:**
-</u>![Figure 12. Rice Phenology Mapping at DJD-5 Experimental Field: a. Drone Waypoints of Image Capture; b. Sparse Sampled Patch-Boxes Distribution; c. Distribution Map of Rice Phenology with Interpolation](img/Figure%2012.jpg)
+| <u>**Figure 12. Rice Phenology Mapping at DJD-5 Experimental Field: a. Drone Waypoints of Image Capture; b. Sparse Sampled Patch-Boxes Distribution; c. Distribution Map of Rice Phenology with Interpolation:**</u> | <img title="" src="img/Figure%2012.jpg" alt="Figure 12. Rice Phenology Mapping at DJD-5 Experimental Field: a. Drone Waypoints of Image Capture; b. Sparse Sampled Patch-Boxes Distribution; c. Distribution Map of Rice Phenology with Interpolation" width="630" data-align="inline"> |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                         |
 
 ### Extra Files
 
