@@ -1,6 +1,6 @@
 # Automated Rice Phenology Stage Mapping using UAV Images and Deep Learning
 
-This is the code implementations of  methods and models proposed in paper *Automated Rice Phenology Stage Mapping using UAV Images and Deep Learning* . 
+This is the code implementations of  methods and models proposed in paper [*Automated Rice Phenology Stage Mapping using UAV Images and Deep Learning*](https://doi.org/10.3390/drones7020083) published in [*Drones*](https://www.mdpi.com/journal/drones).
 
 ### Abstract
 
