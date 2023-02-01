@@ -12,9 +12,6 @@ Accurate monitoring of rice phenology is critical for crop management, cultivars
 
 pds01_DirectGL.py is for Direct Geo-Locating (DGL) of a UAV image at the vertical overhead view.
 
-**Figure 6. Direct Geo-Locating Based on (a) Exterior Orientation and (b) Central Projection at Nadir View:**
-![Figure 6. Direct Geo-Locating Based on (a) Exterior Orientation and (b) Central Projection at Nadir View](img/Figure%206.jpg)
-
 pds02_PatchSparseSampling.py is for Incremental Sparse Sampling (ISS) where the original image is split into patches and selected sparsely.
 
 **Figure 8. Incremental Sparse Sampling and System Workflow:**
