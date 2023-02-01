@@ -26,7 +26,7 @@ Accurate monitoring of rice phenology is critical for crop management, cultivars
 
 | <u>**Figure 12. Rice Phenology Mapping at DJD-5 Experimental Field: <br/>a. Drone Waypoints of Image Capture; <br/>b. Sparse Sampled Patch-Boxes Distribution; <br/>c. Distribution Map of Rice Phenology with Interpolation:**</u> | <img title="" src="img/Figure%2012.jpg" alt="Figure 12. Rice Phenology Mapping at DJD-5 Experimental Field: a. Drone Waypoints of Image Capture; b. Sparse Sampled Patch-Boxes Distribution; c. Distribution Map of Rice Phenology with Interpolation" width="630" data-align="inline"> |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                         |
+
 
 ### Extra Files
 
